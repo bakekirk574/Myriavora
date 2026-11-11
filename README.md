@@ -191,4 +191,4 @@ This repository serves as the official landing page for Myriavora. The software 
 **Get the most recent version of Myriavora today!**
 
 ---
-**Last updated:** 2026-11-10 21:11:09 UTC
+**Last updated:** 2026-11-11 01:42:01 UTC
